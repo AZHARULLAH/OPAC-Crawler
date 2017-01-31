@@ -1,2 +1,9 @@
-sudo pip install
+sudo pip install requests
 sudo pip install beautifulsoup4
+sudo pip install virtualenv
+virtualenv venv
+virtualenv venv --distribute
+cd venv
+source bin/activate
+#Exit from venv for global installation if Flask
+sudo pip install Flask
