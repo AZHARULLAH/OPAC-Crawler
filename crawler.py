@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
 uptoCGIBin = 'http://192.168.240.18'
 baseURL = 'http://192.168.240.18/cgi-bin/koha/opac-search.pl?q='
@@ -31,9 +32,15 @@ for bookDetails in eachBookDiv:
         singleBook['bookAvailabilityStatus'] = "Book not available"
         singleBook['bookRack'] = "NA"
         
-    bookAvailabilityRaw = bookAvailabilityRaw.select('span.available')
-    print singleBook['bookTitle']
-    print singleBook['bookLink']
-    print singleBook['bookAvailabilityStatus']
-    print singleBook['bookRack']
-    print "\n"
+    # bookAvailabilityRaw = bookAvailabilityRaw.select('span.available')
+    # print singleBook['bookTitle']
+    # print singleBook['bookLink']
+    # print singleBook['bookAvailabilityStatus']
+    # print singleBook['bookRack']
+    # print "\n"
+
+    booksResult.append(singleBook.copy())
+
+json.dumps(booksResult)
+# print booksResult
+print json.dumps(booksResult, indent=4, sort_keys=False)
