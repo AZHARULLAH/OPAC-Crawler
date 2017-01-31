@@ -1,0 +1,193 @@
+6
+<td class="bibliocol">
+<div class="coverimages">
+<a class="p1" href="/cgi-bin/koha/opac-detail.pl?biblionumber=26658">
+<span class="8120313534" id="gbs-thumbnail1" style="block" title="26658"></span>
+</a>
+</div>
+<!-- COinS / Openurl -->
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+algorithms+/&amp;rft.isbn=8120313534&amp;rft.issn=&amp;rft.aulast=&amp;rft.aufirst=&amp;rft.au=Cormen,+Thomas+H.&amp;rft.pub=Prentice+Hall+of+India,+&amp;rft.date=1994.&amp;rft.pages="></span>
+<a class="title" href="/cgi-bin/koha/opac-detail.pl?biblionumber=26658" xmlns:str="http://exslt.org/strings">Introduction to algorithms / <span class="title_resp_stmt"> by  Thomas H. Cormen</span></a><p xmlns:str="http://exslt.org/strings">
+
+    by <span class="author">Cormen, Thomas H.</span></p><span class="results_summary type"><span class="results_material_type"><span class="label">Material type: </span><img alt="book" class="materialtype" src="/opac-tmpl/lib/famfamfam/silk/book.png" title="book"> Book</img></span><span class="results_format"><span class="label">; Format: </span>
+                    print
+                </span><span class="results_contents_literary"><span class="label">; Literary form: </span>
+                    Not fiction
+                </span> </span><span class="results_summary publisher"><span class="label">Publisher: </span>New Delhi : Prentice Hall of India,  1994; New Delhi : Prentice Hall of India,  2001; New Delhi : Prentice Hall of India,  ; New Delhi : Prentice Hall of India,  2006; New Delhi : Prentice Hall of India,  2005; New Delhi : Prentice Hall of India,  2002; New Delhi : Prentice Hall of India,  1998; New Delhi : Prentice Hall of India,  1999; New Delhi : Prentice Hall of India,  2000; New Delhi : Prentice Hall of India,  1990</span><span class="results_summary availability" xmlns:str="http://exslt.org/strings"><span class="label">Availability: </span><span class="available"><b>Items available for reference: </b><span class="ItemSummary">Library [<span class="LabelCallNumber">Call number: </span>005.1 COR-COR;1] (1). </span></span><span class="unavailable">Damaged (2). </span></span><span class="results_summary location"><span class="label">Location(s): </span><span class="available"><b> </b>005.1 COR-COR;1. </span></span>
+<div class="results_summary ratings">
+<input class="star" disabled="disabled" name="rating-26658" type="radio" value="1"/>
+<input class="star" disabled="disabled" name="rating-26658" type="radio" value="2"/>
+<input class="star" disabled="disabled" name="rating-26658" type="radio" value="3"/>
+<input class="star" disabled="disabled" name="rating-26658" type="radio" value="4"/>
+<input class="star" disabled="disabled" name="rating-26658" type="radio" value="5"/>
+<input name="biblionumber" type="hidden" value="26658"/>
+<input name="loggedinuser" type="hidden" value=""/>
+<br/>
+</div> <!-- / .results_summary -->
+<div class="actions-menu noprint">
+<span class="actions"><a class="hold" href="/cgi-bin/koha/opac-reserve.pl?biblionumber=26658">Place hold</a></span><!-- add back when available 0 holds in queue-->
+</div>
+</td>
+
+---------------------------------
+
+<td class="bibliocol">
+<div class="coverimages">
+<a class="p1" href="/cgi-bin/koha/opac-detail.pl?biblionumber=44309">
+<span class="8120340078" id="gbs-thumbnail2" style="block" title="44309"></span>
+</a>
+</div>
+<!-- COinS / Openurl -->
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+algorithms+/&amp;rft.isbn=9788120340077&amp;rft.issn=&amp;rft.aulast=&amp;rft.aufirst=&amp;rft.au=Cormen,+Thomas+H.&amp;rft.au=Leiserson,+Charles+E.&amp;rft.pub=PHI,+&amp;rft.date=2009.&amp;rft.pages="></span>
+<a class="title" href="/cgi-bin/koha/opac-detail.pl?biblionumber=44309" xmlns:str="http://exslt.org/strings">Introduction to algorithms / <span class="title_resp_stmt"> by  Thomas H. Cormen;  Charles E. Leiserson and  Ronald L. Rivest and others</span></a><p xmlns:str="http://exslt.org/strings">
+
+    by <span class="author">Cormen, Thomas H<span class="separator"> | </span>Leiserson, Charles E<span class="separator"> | </span>Stein, Clifford<span class="separator"> | </span>Rivest, Ronald L.</span></p><span class="results_summary edition"><span class="label">Edition: </span>3rd ed.</span><span class="results_summary type"><span class="results_material_type"><span class="label">Material type: </span><img alt="book" class="materialtype" src="/opac-tmpl/lib/famfamfam/silk/book.png" title="book"> Book</img></span><span class="results_format"><span class="label">; Format: </span>
+                    print
+                </span><span class="results_contents_literary"><span class="label">; Literary form: </span>
+                    Not fiction
+                </span> </span><span class="results_summary publisher"><span class="label">Publisher: </span>New Delhi : PHI,  2009; Delhi : MIT Press,  2009</span><span class="results_summary availability" xmlns:str="http://exslt.org/strings"><span class="label">Availability: </span><span class="available"><b>Items available for loan: </b><span class="ItemSummary">Library (1). </span></span><span class="unavailable">Checked out (9). </span><span class="unavailable">Damaged (4). </span></span><span class="results_summary location"><span class="label">Location(s): </span><span class="available"><b> </b>005.1      COR;60-COR;64. </span></span>
+<div class="results_summary ratings">
+<input class="star" disabled="disabled" name="rating-44309" type="radio" value="1"/>
+<input class="star" disabled="disabled" name="rating-44309" type="radio" value="2"/>
+<input class="star" disabled="disabled" name="rating-44309" type="radio" value="3"/>
+<input class="star" disabled="disabled" name="rating-44309" type="radio" value="4"/>
+<input class="star" disabled="disabled" name="rating-44309" type="radio" value="5"/>
+<input name="biblionumber" type="hidden" value="44309"/>
+<input name="loggedinuser" type="hidden" value=""/>
+<br/>
+</div> <!-- / .results_summary -->
+<div class="actions-menu noprint">
+<span class="actions"><a class="hold" href="/cgi-bin/koha/opac-reserve.pl?biblionumber=44309">Place hold</a></span><!-- add back when available 0 holds in queue-->
+</div>
+</td>
+
+---------------------------------
+
+<td class="bibliocol">
+<div class="coverimages">
+<a class="p1" href="/cgi-bin/koha/opac-detail.pl?biblionumber=54285">
+<span class="8120313534" id="gbs-thumbnail3" style="block" title="54285"></span>
+</a>
+</div>
+<!-- COinS / Openurl -->
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+algorithms+/&amp;rft.isbn=8120313534&amp;rft.issn=&amp;rft.aulast=&amp;rft.aufirst=&amp;rft.au=Cormen,+Thomas+H.&amp;rft.pub=Prentice+Hall+of+India,+&amp;rft.date=1998.&amp;rft.pages="></span>
+<a class="title" href="/cgi-bin/koha/opac-detail.pl?biblionumber=54285" xmlns:str="http://exslt.org/strings">Introduction to algorithms / <span class="title_resp_stmt"> by  Thomas H. Cormen and others</span></a><p xmlns:str="http://exslt.org/strings">
+
+    by <span class="author">Cormen, Thomas H.</span></p><span class="results_summary type"><span class="results_material_type"><span class="label">Material type: </span><img alt="book" class="materialtype" src="/opac-tmpl/lib/famfamfam/silk/book.png" title="book"> Book</img></span><span class="results_format"><span class="label">; Format: </span>
+                    print
+                </span><span class="results_contents_literary"><span class="label">; Literary form: </span>
+                    Not fiction
+                </span> </span><span class="results_summary publisher"><span class="label">Publisher: </span>New Delhi : Prentice Hall of India,  1998</span><span class="results_summary availability" xmlns:str="http://exslt.org/strings"><span class="label">Availability: </span>No items available <span class="unavailable">Checked out (3). </span><span class="unavailable">Damaged (9). </span></span>
+<div class="results_summary ratings">
+<input class="star" disabled="disabled" name="rating-54285" type="radio" value="1"/>
+<input class="star" disabled="disabled" name="rating-54285" type="radio" value="2"/>
+<input class="star" disabled="disabled" name="rating-54285" type="radio" value="3"/>
+<input class="star" disabled="disabled" name="rating-54285" type="radio" value="4"/>
+<input class="star" disabled="disabled" name="rating-54285" type="radio" value="5"/>
+<input name="biblionumber" type="hidden" value="54285"/>
+<input name="loggedinuser" type="hidden" value=""/>
+<br/>
+</div> <!-- / .results_summary -->
+<div class="actions-menu noprint">
+<span class="actions"><a class="hold" href="/cgi-bin/koha/opac-reserve.pl?biblionumber=54285">Place hold</a></span><!-- add back when available 0 holds in queue-->
+</div>
+</td>
+
+---------------------------------
+
+<td class="bibliocol">
+<div class="coverimages">
+<a class="p1" href="/cgi-bin/koha/opac-detail.pl?biblionumber=55356">
+<span class="8120340078" id="gbs-thumbnail4" style="block" title="55356"></span>
+</a>
+</div>
+<!-- COinS / Openurl -->
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+algorithms+/&amp;rft.isbn=9788120340077&amp;rft.issn=&amp;rft.aulast=&amp;rft.aufirst=&amp;rft.au=Cormen,+Thomas+H.&amp;rft.au=Leiserson,+Charles+E.&amp;rft.pub=PHI,+&amp;rft.date=2009.&amp;rft.pages="></span>
+<a class="title" href="/cgi-bin/koha/opac-detail.pl?biblionumber=55356" xmlns:str="http://exslt.org/strings">Introduction to algorithms / <span class="title_resp_stmt"> by  Thomas H. Cormen;  Charles E. Leiserson and  Ronald L. Rivest</span></a><p xmlns:str="http://exslt.org/strings">
+
+    by <span class="author">Cormen, Thomas H<span class="separator"> | </span>Leiserson, Charles E<span class="separator"> | </span>Rivest, Ronald L<span class="separator"> | </span>Stein, Clifford.</span></p><span class="results_summary edition"><span class="label">Edition: </span>3rd ed.</span><span class="results_summary type"><span class="results_material_type"><span class="label">Material type: </span><img alt="book" class="materialtype" src="/opac-tmpl/lib/famfamfam/silk/book.png" title="book"> Book</img></span><span class="results_format"><span class="label">; Format: </span>
+                    print
+                </span><span class="results_contents_literary"><span class="label">; Literary form: </span>
+                    Not fiction
+                </span> </span><span class="results_summary publisher"><span class="label">Publisher: </span>New Delhi : PHI,  2009</span><span class="results_summary availability" xmlns:str="http://exslt.org/strings"><span class="label">Availability: </span><span class="available"><b>Items available for reference: </b><span class="ItemSummary">Library [<span class="LabelCallNumber">Call number: </span>005.1   COR;65-COR;76] (2). </span></span><span class="unavailable">Checked out (10). </span></span><span class="results_summary location"><span class="label">Location(s): </span><span class="available"><b> </b>005.1   COR;65-COR;76. </span></span>
+<div class="results_summary ratings">
+<input class="star" disabled="disabled" name="rating-55356" type="radio" value="1"/>
+<input class="star" disabled="disabled" name="rating-55356" type="radio" value="2"/>
+<input class="star" disabled="disabled" name="rating-55356" type="radio" value="3"/>
+<input class="star" disabled="disabled" name="rating-55356" type="radio" value="4"/>
+<input class="star" disabled="disabled" name="rating-55356" type="radio" value="5"/>
+<input name="biblionumber" type="hidden" value="55356"/>
+<input name="loggedinuser" type="hidden" value=""/>
+<br/>
+</div> <!-- / .results_summary -->
+<div class="actions-menu noprint">
+<span class="actions"><a class="hold" href="/cgi-bin/koha/opac-reserve.pl?biblionumber=55356">Place hold</a></span><!-- add back when available 0 holds in queue-->
+</div>
+</td>
+
+---------------------------------
+
+<td class="bibliocol">
+<div class="coverimages">
+<a class="p1" href="/cgi-bin/koha/opac-detail.pl?biblionumber=55625">
+<span class="8120313534" id="gbs-thumbnail5" style="block" title="55625"></span>
+</a>
+</div>
+<!-- COinS / Openurl -->
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+algorithms+/&amp;rft.isbn=8120313534&amp;rft.issn=&amp;rft.aulast=&amp;rft.aufirst=&amp;rft.au=Cormen,+Thomas+H.&amp;rft.pub=Prentice+Hall+of+India,+&amp;rft.date=&amp;rft.pages="></span>
+<a class="title" href="/cgi-bin/koha/opac-detail.pl?biblionumber=55625" xmlns:str="http://exslt.org/strings">Introduction to algorithms / <span class="title_resp_stmt"> by  Thomas H. Cormen and others</span></a><p xmlns:str="http://exslt.org/strings">
+
+    by <span class="author">Cormen, Thomas H.</span></p><span class="results_summary edition"><span class="label">Edition: </span>2nd ed.</span><span class="results_summary type"><span class="results_material_type"><span class="label">Material type: </span><img alt="book" class="materialtype" src="/opac-tmpl/lib/famfamfam/silk/book.png" title="book"> Book</img></span><span class="results_format"><span class="label">; Format: </span>
+                    print
+                </span><span class="results_contents_literary"><span class="label">; Literary form: </span>
+                    Not fiction
+                </span> </span><span class="results_summary publisher"><span class="label">Publisher: </span>New Delhi : Prentice Hall of India,  </span><span class="results_summary availability" xmlns:str="http://exslt.org/strings"><span class="label">Availability: </span><span class="available"><b>Items available for loan: </b><span class="ItemSummary">Library (1). </span></span><span class="unavailable">Checked out (15). </span><span class="unavailable">Damaged (21). </span></span><span class="results_summary location"><span class="label">Location(s): </span><span class="available"><b> </b>005.1 COR;26 - COR;28. </span></span>
+<div class="results_summary ratings">
+<input class="star" disabled="disabled" name="rating-55625" type="radio" value="1"/>
+<input class="star" disabled="disabled" name="rating-55625" type="radio" value="2"/>
+<input class="star" disabled="disabled" name="rating-55625" type="radio" value="3"/>
+<input class="star" disabled="disabled" name="rating-55625" type="radio" value="4"/>
+<input class="star" disabled="disabled" name="rating-55625" type="radio" value="5"/>
+<input name="biblionumber" type="hidden" value="55625"/>
+<input name="loggedinuser" type="hidden" value=""/>
+<br/>
+</div> <!-- / .results_summary -->
+<div class="actions-menu noprint">
+<span class="actions"><a class="hold" href="/cgi-bin/koha/opac-reserve.pl?biblionumber=55625">Place hold</a></span><!-- add back when available 0 holds in queue-->
+</div>
+</td>
+
+---------------------------------
+
+<td class="bibliocol">
+<div class="coverimages">
+<a class="p1" href="/cgi-bin/koha/opac-detail.pl?biblionumber=57053">
+<span class="8120321413" id="gbs-thumbnail6" style="block" title="57053"></span>
+</a>
+</div>
+<!-- COinS / Openurl -->
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+algorithms+/&amp;rft.isbn=8120321413&amp;rft.issn=&amp;rft.aulast=&amp;rft.aufirst=&amp;rft.au=Cormen,+Thomas+H.&amp;rft.pub=PHI,+&amp;rft.date=2001.&amp;rft.pages="></span>
+<a class="title" href="/cgi-bin/koha/opac-detail.pl?biblionumber=57053" xmlns:str="http://exslt.org/strings">Introduction to algorithms / <span class="title_resp_stmt"> by  Thomas H. Cormen and others</span></a><p xmlns:str="http://exslt.org/strings">
+
+    by <span class="author">Cormen, Thomas H.</span></p><span class="results_summary type"><span class="results_material_type"><span class="label">Material type: </span><img alt="book" class="materialtype" src="/opac-tmpl/lib/famfamfam/silk/book.png" title="book"> Book</img></span><span class="results_format"><span class="label">; Format: </span>
+                    print
+                </span><span class="results_contents_literary"><span class="label">; Literary form: </span>
+                    Not fiction
+                </span> </span><span class="results_summary publisher"><span class="label">Publisher: </span>New Delhi : PHI,  2001</span><span class="results_summary availability" xmlns:str="http://exslt.org/strings"><span class="label">Availability: </span>No items available <span class="unavailable">Checked out (2). </span><span class="unavailable">Damaged (2). </span></span>
+<div class="results_summary ratings">
+<input class="star" disabled="disabled" name="rating-57053" type="radio" value="1"/>
+<input class="star" disabled="disabled" name="rating-57053" type="radio" value="2"/>
+<input class="star" disabled="disabled" name="rating-57053" type="radio" value="3"/>
+<input class="star" disabled="disabled" name="rating-57053" type="radio" value="4"/>
+<input class="star" disabled="disabled" name="rating-57053" type="radio" value="5"/>
+<input name="biblionumber" type="hidden" value="57053"/>
+<input name="loggedinuser" type="hidden" value=""/>
+<br/>
+</div> <!-- / .results_summary -->
+<div class="actions-menu noprint">
+<span class="actions"><a class="hold" href="/cgi-bin/koha/opac-reserve.pl?biblionumber=57053">Place hold</a></span><!-- add back when available 0 holds in queue-->
+</div>
+</td>
+
+---------------------------------
+

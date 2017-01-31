@@ -1,0 +1,120 @@
+College algebra  by  Ross R. Middlemiss
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=1052
+Book available for loan 
+512
+
+
+Optics  by  Bruno Rossi
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=1880
+Book not available
+NA
+
+
+Intermediate algebra  by  Ross H. Bardell and  Abraham Spitzbart
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=1892
+Book available for loan 
+512
+
+
+Chemical thermodynamics  by  Frederick D. Rossini
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=2071
+Book available for loan 
+541.369
+
+
+Manual of intructions in welding and cutting  by  Boniface E. Rossi
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=3069
+Book available for loan 
+671.5
+
+
+Welding and its application  by  Boniface E. Rossi
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=3080
+Book available for reference 
+671.52
+
+
+Welding engineering  by  Boniface E. Rossi
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=3767
+Book available for loan 
+671.52
+
+
+Logic for mathematics  by  J. Barkely Rosser
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=3913
+Book available for loan 
+164
+
+
+Logic in elementary mathematics  by  Robert M. Exner and  Myron F. Rosskope
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=4048
+Book available for loan 
+164
+
+
+College algebra and plane trigonometry  by  Abraham Spitzbart and  Ross H. Bardell
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=4054
+Book available for loan 
+512
+
+
+Introduction to modern algebra and matrix theory  by  Ross A. Beaumont and  Richard W. Ball
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=4130
+Book available for loan 
+512.89
+
+
+Handbook of applied instrumentation  by  Douglas M. Considine and  S. D. Ross
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=4361
+Book available for loan 
+621.374
+
+
+Microbiology for sanitary engineers  by  Ross E. Mckinney
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=4465
+Book available for loan 
+628.3
+
+
+Handbook of rigging  by  W. E. Rossnagel
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=4892
+Book available for loan 
+621.862
+
+
+Laser receivers  by  Monte Ross
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=5285
+Book not available
+NA
+
+
+Experimental mechanics  by  Boniface E. Rossi
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=5523
+Book available for loan 
+624.171
+
+
+Introduction to cybernetics  by  W. Ross Ashby
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=5616
+Book not available
+NA
+
+
+Teleprinter switching  by  Ehrhard Rossberg and  Helmut E. Korta
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=6084
+Book available for loan 
+621.3825
+
+
+Chemical applications of potentiometry  by  Hazel Rossotti
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=6468
+Book available for loan 
+540
+
+
+Arts versus science  by  Alan S. C. Ross
+http://192.168.240.18/cgi-bin/koha/opac-detail.pl?biblionumber=7377
+Book not available
+NA
+
+
