@@ -5,10 +5,13 @@ from bs4 import BeautifulSoup
 import json
 
 from flask import Flask
-from flask_restful import Api
+# from flask_restful import Api
+
+from flask_cors import CORS
 
 app = Flask(__name__)
-api = Api(app)
+CORS(app)
+# api = Api(app)
 settings = app.config.get('RESTFUL_JSON', {})
 settings.setdefault('indent', 4)
 settings.setdefault('sort_keys', False)
@@ -59,4 +62,4 @@ def crawler(searchQuery):
     # return flask.Response(response=json.dumps(results), status=200, mimetype='application/json')
 
 if __name__ == '__main__':
-    app.run(debug = True)
+    app.run(host = '0.0.0.0')

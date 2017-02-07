@@ -5,5 +5,7 @@ virtualenv venv
 virtualenv venv --distribute
 cd venv
 source bin/activate
-#Exit from venv for global installation if Flask
+#Exit from venv for global installation of Flask
 sudo pip install Flask
+# install below for CORS
+pip install flask-cors
