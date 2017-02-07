@@ -1,0 +1,6 @@
+bs4
+requests
+json
+os
+flask
+flask_cors
