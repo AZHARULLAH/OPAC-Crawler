@@ -33,21 +33,31 @@ def crawler(searchQuery):
 
     for bookDetails in eachBookDiv:
         singleBook = dict()
-        bookTitleRaw = bookDetails.select('a.title')[0]
-        bookTitleRaw.span.unwrap()
-        singleBook['bookTitle'] = bookTitleRaw.text.replace(" /", "").replace(";",",")
-        singleBook['bookLink'] = uptoCGIBin + bookTitleRaw.get("href")
-        bookAvailabilityRaw = bookDetails.select('span.availability')[0]
-        # print bookAvailabilityRaw.select('span.available')
-        if(bookAvailabilityRaw.select('span.available')):
-            singleBook['bookAvailabilityStatus'] = bookAvailabilityRaw.select('span.available b')[0].text.replace(":", "").replace("Items","Book")
-            bookRackRaw = bookDetails.select('span.location')[0].select('span.available')[0]
-            bookRackRaw.b.unwrap()
-            bookRackRaw = bookRackRaw.text.split(" ")[1]
-            singleBook['bookRack'] = str(bookRackRaw)
-        elif(bookAvailabilityRaw.select('span.unavailable')):
-            singleBook['bookAvailabilityStatus'] = "Book not available"
-            singleBook['bookRack'] = "NA"
+        try:
+            bookTitleRaw = bookDetails.select('a.title')[0]
+            bookTitleRaw.span.unwrap()
+            singleBook['bookTitle'] = bookTitleRaw.text.replace(" /", "").replace(";",",")
+        except:
+            singleBook['bookTitle'] = "titleError"
+        try:
+            singleBook['bookLink'] = uptoCGIBin + bookTitleRaw.get("href")
+        except:
+            singleBook['bookLink'] = "linkError"
+        try:
+            bookAvailabilityRaw = bookDetails.select('span.availability')[0]
+            # print bookAvailabilityRaw.select('span.available')
+            if(bookAvailabilityRaw.select('span.available')):
+                singleBook['bookAvailabilityStatus'] = bookAvailabilityRaw.select('span.available b')[0].text.replace(":", "").replace("Items","Book")
+                bookRackRaw = bookDetails.select('span.location')[0].select('span.available')[0]
+                bookRackRaw.b.unwrap()
+                bookRackRaw = bookRackRaw.text.split(" ")[1]
+                singleBook['bookRack'] = str(bookRackRaw)
+            elif(bookAvailabilityRaw.select('span.unavailable')):
+                singleBook['bookAvailabilityStatus'] = "Book not available"
+                singleBook['bookRack'] = "NA"
+        except:
+            singleBook['bookAvailabilityStatus'] = "availabilityError"
+            singleBook['bookRack'] = "rackError"
             
         # bookAvailabilityRaw = bookAvailabilityRaw.select('span.available')
         # print singleBook['bookTitle']
