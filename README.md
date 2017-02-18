@@ -3,6 +3,7 @@ A crawler for NITC library Koha OPAC search
 
 ##Instructions
 
+```bash
 sudo pip install requests
 sudo pip install beautifulsoup4
 sudo pip install virtualenv
@@ -14,3 +15,4 @@ source bin/activate
 sudo pip install Flask
 # install below for CORS
 pip install flask-cors
+```
